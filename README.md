@@ -1,4 +1,3 @@
-
 # PredictHD
 What we have done in the Hackathon organized by MLH and E-tech.
 
@@ -10,3 +9,8 @@ When we started coding stuff at begining (Carl studies the model and I tried to 
 
 Because it is our first time with Azure, It took me some time to get used to it, discover that there is an "Execute R block" and uploading data, train the model... After some tesing (and some time, 1h 30 min to be exact), I discovered the other way arround, which was somehow easier : applying Azure basics (that were not that clear at first sight !). The experiment we created in Azure ML Studio is as follows :
 
+![Train experiment](/images/CHD.PNG?raw=true "Train experiment on Azure ML Studio")
+
+After some discovering, understanding and some more time, we succeeded at transorming it to a "Predictive" WebService (The quick start guide was alright, when watching it for the 11th time !) :
+
+![Predctive experiment](/images/CHD.PNG?raw=true "Predictive experiment on Azure ML Studio")
