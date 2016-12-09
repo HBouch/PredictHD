@@ -13,4 +13,4 @@ Because it is our first time with Azure, It took me some time to get used to it,
 
 After some discovering, understanding and some more time, we succeeded at transorming it to a "Predictive" WebService (The quick start guide was alright, when watching it for the 11th time !) :
 
-![Predctive experiment](/images/CHD.PNG?raw=true "Predictive experiment on Azure ML Studio")
+![Predctive experiment](/images/CHDExp.PNG?raw=true "Predictive experiment on Azure ML Studio")
